@@ -1,6 +1,8 @@
 # jobs
 
-💻 Job listings
+💼 Job opportunities in Singapore and abroad
+
+`fullstack` `frontend` `backend` `javascript` `nodejs` `reactjs` `full-time` `part-time` `freelance`
 
 ## How to create a job post
 
